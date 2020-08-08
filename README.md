@@ -6,4 +6,4 @@ Click binder to launch and review
 
 # All about Crowd Counting 
 
-![Explain ground truth](crowd_counting/explain_ground_truth.ipynb)
+[Explain ground truth](crowd_counting/explain_ground_truth.ipynb)
